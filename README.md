@@ -8,3 +8,6 @@ NKU-2024-Network Technology and Application
 
 ## lab2
 There's nothing to pay attention to.
+
+## lab3
+The same to `lab1`.
