@@ -11,3 +11,9 @@ There's nothing to pay attention to.
 
 ## lab3
 The same to `lab1`.
+
+## lab4
+When conducting experiments in the laboratory room, it is necessary to modify the IP address, otherwise duplicate networks may occur.
+
+## lab5
+The compilation process requires the use of `Release` and `x86`, but unlike lab1, the linker needs to use `x86`.
